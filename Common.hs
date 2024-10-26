@@ -1,6 +1,9 @@
 import Data.List
 import Data.Char
 
+main :: IO()
+main = print(filter selector2 generator2)
+
 digits :: Int -> [Int]
 digits n
   | n < 10 = [n]
