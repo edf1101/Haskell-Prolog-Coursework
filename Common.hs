@@ -4,6 +4,7 @@ import Data.Char
 main :: IO()
 main = print(filter selector2 generator2)
 
+-- This function is a modified version of  the 'binary' function from the lectures
 digits :: Int -> [Int]
 digits n
   | n < 10 = [n]

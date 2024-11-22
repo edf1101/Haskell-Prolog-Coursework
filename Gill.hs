@@ -31,6 +31,7 @@ selector1 (a_list,b_list,c_list)
     b = number b_list
     c = number c_list
 
+    -- This function prime is taken from lecture examples
     prime n
         | n < 2 = False
         | otherwise = not ( factorisable n 2)

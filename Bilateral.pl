@@ -27,7 +27,7 @@ checkLastIs3(Len1, Len2, Last1, Last2) :-
 palindrome(Number) :-
     number_chars(Number, DigitList), 
     reverse(DigitList, ReversedList),
-    DigitList = ReversedList.   % Check if the original and reversed lists are the same
+    DigitList = ReversedList.
 
 firstDigit(Number,Out):-
     number_chars(Number, DigitList),

@@ -1,0 +1,14 @@
+Student declaration
+
+You must prepare a declaration saying which of these applies.
+- I have used GenAI tools for developing ideas.
+- I have used GenAI tools to assist with research or gathering information.
+- I have used any GenAI tools in preparing this assessment.
+
+- I have NOT used GenAI tools to help me understand key theories and concepts.
+- I have NOT used GenAI tools to identify trends and themes as part of my data analysis.
+- I have NOT used GenAI tools to suggest a plan or structure for my assessment.
+- I have NOT used GenAI tools to give me feedback on a draft.
+- I have NOT used GenAI tools to generate image[s], figures or diagrams.
+- I have NOT used GenAI tools to proofread and correct grammar or spelling errors.
+- I have NOT used GenAI tools to generate citations or references.
